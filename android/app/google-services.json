@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "37165991922",
+    "project_id": "mixtube-c51af",
+    "storage_bucket": "mixtube-c51af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37165991922:android:c1cc03bf210c3ccaf70d6b",
+        "android_client_info": {
+          "package_name": "com.dungdev.mixtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37165991922-gddum05g8gqc45p5idvqd0tc990gkl12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD281Zl6lBoF3iWuiucxHd-4Og1mLBxYkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37165991922-gddum05g8gqc45p5idvqd0tc990gkl12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37165991922-54etf9l470it8vobk3r1dt9212m1fsbs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dungdev.mixtube"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

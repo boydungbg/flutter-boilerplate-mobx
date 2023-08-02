@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>37165991922-54etf9l470it8vobk3r1dt9212m1fsbs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.37165991922-54etf9l470it8vobk3r1dt9212m1fsbs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqgnV2-GnMmNow9BFhd-8vG7vnt14A048</string>
+	<key>GCM_SENDER_ID</key>
+	<string>37165991922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dungdev.mixtube</string>
+	<key>PROJECT_ID</key>
+	<string>mixtube-c51af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mixtube-c51af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:37165991922:ios:9e54402787f30044f70d6b</string>
+</dict>
+</plist>
